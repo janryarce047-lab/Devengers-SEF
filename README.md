@@ -9,7 +9,7 @@ A collaborative repository for Software Engineering Foundations, managed by the 
 ## Team Members
 
 - Janry Arce
-- Beneath Tadia
+- Joshua Tadia
 - Crisbel Custodio
 
 ## Purpose
