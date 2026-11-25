@@ -22,7 +22,7 @@
 
 ## Lab 01: AI and Machine Learning Research Topic Scan (Week 1)
 
-### 1. AidTrack AI: Disaster Relief Demand Forecasting and Intelligent Donation Matching
+### 1. AidTrack: Disaster Relief Demand Forecasting and Intelligent Donation Matching
 
 - **Idea:** Develop an improved version of AidTrack that uses machine learning to forecast short-term relief requirements and recommend suitable allocations of available donations to disaster-affected communities.
 
@@ -100,7 +100,7 @@ The following scores are preliminary adviser assessments, not experimentally val
 
 1. **HireSafe PH – 27/30:** Strong research potential through context-aware recruitment fraud detection, with local data labeling as its main challenge.
 
-2. **AidTrack AI – 26/30:** Builds on an existing system and addresses disaster response, although access to validated historical demand data remains a concern.
+2. **AidTrack – 26/30:** Builds on an existing system and addresses disaster response, although access to validated historical demand data remains a concern.
 
 **Note:** The numerical ranking is based only on the supplied preliminary assessment. A final topic selection should also consider team interest, adviser feedback, research novelty, and confirmed data access.
 
@@ -154,9 +154,9 @@ Both topics demonstrate potential for undergraduate AI and Machine Learning rese
 
 ---
 
-## Lab 01: AI and Machine Learning Research Topic Scan (Week 1)
+## Lab 01: Machine Learning Research Topic Scan (Week 1)
 
-### 1. AidTrack AI: Disaster Relief Demand Forecasting and Intelligent Donation Matching
+### 1. AidTrack: Disaster Relief Demand Forecasting and Intelligent Donation Matching
 
 - **Idea:** Develop an improved version of AidTrack that uses machine learning to forecast short-term relief requirements and recommend suitable allocations of available donations to disaster-affected communities.
 
@@ -234,7 +234,7 @@ The following scores are preliminary adviser assessments, not experimentally val
 
 1. **HireSafe PH – 27/30:** Strong research potential through context-aware recruitment fraud detection, with local data labeling as its main challenge.
 
-2. **AidTrack AI – 26/30:** Builds on an existing system and addresses disaster response, although access to validated historical demand data remains a concern.
+2. **AidTrack – 26/30:** Builds on an existing system and addresses disaster response, although access to validated historical demand data remains a concern.
 
 **Note:** The numerical ranking is based only on the supplied preliminary assessment. A final topic selection should also consider team interest, adviser feedback, research novelty, and confirmed data access.
 
